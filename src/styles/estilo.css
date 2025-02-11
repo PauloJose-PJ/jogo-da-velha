@@ -1,7 +1,7 @@
 body {
     overflow: hidden;
     font-family: Consolas,monaco,monospace; 
-    background: #C3DFE0;
+    background-color: #C3DFE0;
 }
 
 .navbar{
